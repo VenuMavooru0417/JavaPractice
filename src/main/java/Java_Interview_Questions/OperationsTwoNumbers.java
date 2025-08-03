@@ -10,7 +10,7 @@ public class OperationsTwoNumbers {
     private static int substract(int num1, int num2){
         return num1 - num2;
     }
-    private static int devide(int num1, int num2){
+    public static int devide(int num1, int num2){
         return num2 / num1;
     }
     public static void main(String[] args) {
